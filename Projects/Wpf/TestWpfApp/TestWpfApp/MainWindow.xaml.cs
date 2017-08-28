@@ -27,7 +27,7 @@ namespace TestWpfApp
 
         public string WindowTitle()
         {
-            return "TestApp1";
+            return "TestApp";
         }
     }
 }
