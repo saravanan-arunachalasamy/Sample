@@ -24,5 +24,10 @@ namespace TestWpfApp
         {
             InitializeComponent();
         }
+
+        public string WindowTitle()
+        {
+            return "TestApp";
+        }
     }
 }
